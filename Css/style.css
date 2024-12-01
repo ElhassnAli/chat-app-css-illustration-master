@@ -141,18 +141,18 @@ body {
 
 .tt {
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   padding: 10px;
   margin-top: 10px;
   border-radius: 10px;
-  margin-left: 115px;
+  margin-left: 105px;
   background-color: white;
-  width: 215px;
+  width: 225px;
 }
 
 .ttt {
   display: flex;
-  flex-wrap: nowrap;
+  justify-content: flex-start;
   padding: 10px;
   margin-top: 10px;
   border-radius: 10px;
@@ -185,8 +185,8 @@ body {
 }
 
 span {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border-radius: 50%;
   border: 1px solid white;
 }
