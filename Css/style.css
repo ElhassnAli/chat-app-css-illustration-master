@@ -255,7 +255,7 @@ input {
     width: 475px;
     border-radius: 237.5px 237.5px 0 0;
   }
-  .footer br{
+  .footer p br{
     display: none;
   }
 }
